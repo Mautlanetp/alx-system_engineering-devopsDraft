@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp 751 hello
+chgrp 777 hello
